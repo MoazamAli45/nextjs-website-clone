@@ -225,6 +225,10 @@
 @media (max-width: 800px) {
   /* Make the overlay text vertically centered on mobile */
 
+  .dash-border-h {
+    top: 10%;
+  }
+
   .overlay-dash-third,
   .overlay-dash-fourth,
   .overlay-dash,
@@ -236,7 +240,7 @@
   .hero-title h1 {
     line-height: 1.2;
     text-align: center;
-    margin: 4rem 2rem auto 3rem;
+    margin: 0rem 2rem auto 3rem;
   }
 
   .flow-h,
